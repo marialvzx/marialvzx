@@ -1,10 +1,4 @@
 ## Oii eu sou a Mariane Alves e tenho grande interesse na área de Desenvolvimento Web!
-
-- 👩🏻‍💻 Cursando análise e desenvolvimento de sistemas
-- 📝 Estudando FrontStart
-- 💌 Contate-me no email: marianealvesdemorais.27@gmail.com
-- 🙂 Pronouns: ela/dela
-
 <div align="center">
   <a href="https://github.com/marialvzx"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarianeAlves&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
